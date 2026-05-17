@@ -24,7 +24,7 @@ Instead of only presenting final results, it documents the **learning and improv
 
 ---
 
-## 📈 Visualization Progression
+## Visualization Progression
 
 ### 1. Basic Static Visualizations (Matplotlib & Seaborn)
 
